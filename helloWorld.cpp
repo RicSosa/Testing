@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-  cout<<endl<<"hello";
-  cout<<endl<<"v2";
+  for(int i=0;i<10;i++)
+    cout<<endl<<"hello";
   getch();
   return 0;
 }
